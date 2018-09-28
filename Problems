@@ -1,0 +1,15 @@
+Exercise1: 
+Write a class Worker and derive classes DailyWorker and
+SalariedWorker from it. Every worker has a name and a salary rate. Write method
+ComPay (int hours) to compute the week pay of every worker. A Daily Worker is
+paid on the basis of the number of days s/he works. The Salaried Worker gets paid
+the wage for 40 hours a week no matter what the actual hours are. Test this program
+to calculate the pay of workers. You are expected to use the concept of polymorphism
+to write this program.
+
+
+Exercise2: 
+Consider the trunk calls of a telephone exchange. A trunk call can be
+ordinary, urgent or lightning. The charges depend on the duration and the type of the
+call. Writ a program using the concept of polymorphism in Java to calculate the
+charges.
